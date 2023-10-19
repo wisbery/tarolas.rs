@@ -1,0 +1,12 @@
+[package]
+name = "tarolas"
+version = "0.0.1"
+authors = ["Dariusz Depta <wisbery@users.noreply.github.com>"]
+description = "Lightweight file server (future project)"
+documentation = "https://docs.rs/yurl"
+repository = "https://github.com/wisbery/tarolas.rs.git"
+keywords = ["lightweight", "file", "server"]
+license = "MIT OR Apache-2.0"
+edition = "2021"
+
+[dependencies]
